@@ -1,0 +1,14 @@
+.Link {
+    color: #fff;
+    font-weight: 700;
+}
+
+.Link:hover {
+    color: #ffc107;
+    text-decoration: none !important;
+}
+
+.errors {
+    color: #ff0019;
+    width: 100%;
+}
